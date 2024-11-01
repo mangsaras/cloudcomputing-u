@@ -1,5 +1,5 @@
 Materi Cloud Computing Kelas U
 => Jenis - Jenis Hosting
-===>Dedicated
+===>Dedicated 
 ===>Shared Hosting
 ===>Colocation Server
